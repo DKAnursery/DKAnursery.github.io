@@ -183,6 +183,14 @@ tr {
     width: 30%;
 }
 
+.floatfill {
+    padding-top: 12.5%;
+    padding-bottom: 12.5%;
+    padding-left: 12.5%;
+    padding-right: 12.5%;
+    width: 75%;
+}
+
 .text {
     background-color: #D1C88C;
     border-radius: 6px;
